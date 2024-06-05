@@ -15,7 +15,7 @@ join_what = [
 ]
 
 async def main():
-    for i, account in enumerate(account_list[::-1][48:100]):
+    for i, account in enumerate(account_list):
         print(f"{i} [{account[1]}] - Starting...")
         j = 10
         
