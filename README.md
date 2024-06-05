@@ -13,7 +13,7 @@ This Telegram bot is designed to automate the process of solving captchas and ch
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10
 - Telethon library
 
 ### Installation
@@ -74,7 +74,7 @@ This project is licensed under the MIT License.
 
 ### Предварительные требования
 
-- Python 3.7 или выше
+- Python 3.10
 - Библиотека Telethon
 
 ### Установка
